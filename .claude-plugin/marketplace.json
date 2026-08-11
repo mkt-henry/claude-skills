@@ -1,0 +1,14 @@
+{
+  "name": "henry-skills",
+  "owner": {
+    "name": "Henry",
+    "email": "henry@treasurer.co.kr"
+  },
+  "plugins": [
+    {
+      "name": "henry-skills",
+      "source": "./",
+      "description": "Git sync and Cloudflare quick-tunnel skills for everyday project work"
+    }
+  ]
+}

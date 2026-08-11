@@ -1,0 +1,9 @@
+{
+  "name": "henry-skills",
+  "description": "Git sync and Cloudflare quick-tunnel skills for everyday project work",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry",
+    "email": "henry@treasurer.co.kr"
+  }
+}
