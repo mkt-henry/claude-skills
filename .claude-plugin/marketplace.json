@@ -8,7 +8,7 @@
     {
       "name": "henry-skills",
       "source": "./",
-      "description": "Git sync, Cloudflare quick-tunnel and PC power-limit (TDP) setup skills"
+      "description": "Git sync and Cloudflare quick-tunnel skills for everyday project work"
     }
   ]
 }

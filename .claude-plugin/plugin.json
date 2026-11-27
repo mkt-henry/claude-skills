@@ -1,7 +1,7 @@
 {
   "name": "henry-skills",
-  "description": "Git sync, Cloudflare quick-tunnel and PC power-limit (TDP) setup skills",
-  "version": "1.1.0",
+  "description": "Git sync and Cloudflare quick-tunnel skills for everyday project work",
+  "version": "1.0.0",
   "author": {
     "name": "Henry",
     "email": "henry@treasurer.co.kr"
